@@ -2,6 +2,7 @@ import React from "react";
 import { FaUser } from "react-icons/fa";
 import { BsFillBellFill, BsFillStarFill } from "react-icons/bs";
 import { AiFillPlusCircle } from "react-icons/ai";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -10,27 +11,27 @@ const Header = () => {
         <div className="flex items-center gap-5">
           <div className="logo flex items-center gap-2">
             <img className="w-4 h-4 object-center" src="https://i.drom.ru/misc/drom-logo/80x80.png?u=1" alt="" />
-            <a href="" className="text-xl font-medium">дром</a>
+            <Link to="/" className="text-xl font-medium">дром</Link>
           </div>
           <div className="place">Тюменская область</div>
           <ul className="flex gap-4">
-            <li><a href="">Автомобили</a></li>
-            <li><a href="">Спецтехника</a></li>
-            <li><a href="">Запчасти</a></li>
-            <li><a href="">Отзывы</a></li>
-            <li><a href="">Каталог</a></li>
-            <li><a href="">Шины</a></li>
+            <li><Link to="/auto">Автомобили</Link></li>
+            <li><Link to="/">Спецтехника</Link></li>
+            <li><Link to="/">Запчасти</Link></li>
+            <li><Link to="/">Отзывы</Link></li>
+            <li><Link to="/">Каталог</Link></li>
+            <li><Link to="/">Шины</Link></li>
           </ul>
         </div>
         <div className="flex items-center gap-3">
-          <button className="p-2 bg-red-600 text-white rounded-sm font-medium flex items-center">
+          <Link to="/create-ad" className="p-2 bg-red-600 text-white rounded-sm font-medium flex items-center">
             <AiFillPlusCircle className="mr-2 text-sm" /> Подать объявление
-          </button>
+          </Link>
           <div className="user">
             <div className="avatar text-xl flex gap-3">
-              <a href="" className="user"><FaUser /></a>
-              <a href="" className="user"><BsFillStarFill /></a>
-              <a href="" className="user"><BsFillBellFill /></a>
+              <Link to="/" className="user"><FaUser /></Link>
+              <Link to="/" className="user"><BsFillStarFill /></Link>
+              <Link to="/" className="user"><BsFillBellFill /></Link>
             </div>
           </div>
         </div>
