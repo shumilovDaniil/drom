@@ -6,13 +6,14 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
-    <div className="bg-black">
+    <div className="bg-black mb-5">
       <div className="m-auto text-xs text-gray-300 flex items-center px-3 py-1.5 gap-4 justify-between max-w-7xl">
         <div className="flex items-center gap-5">
-          <div className="logo flex items-center gap-2">
-            <img className="w-4 h-4 object-center" src="https://i.drom.ru/misc/drom-logo/80x80.png?u=1" alt="" />
-            <Link to="/" className="text-xl font-medium">дром</Link>
-          </div>
+          <Link to="/" className="text-xl flex items-center font-medium gap-2">
+            <img className="w-4 h-4 object-center"
+                 src="https://i.drom.ru/misc/drom-logo/80x80.png?u=1"
+                 alt="" />дром
+          </Link>
           <div className="place">Тюменская область</div>
           <ul className="flex gap-4">
             <li><Link to="/auto">Автомобили</Link></li>
@@ -25,7 +26,7 @@ const Header = () => {
         </div>
         <div className="flex items-center gap-3">
           <Link to="/create-ad" className="p-2 bg-red-600 text-white rounded-sm font-medium flex items-center">
-            <AiFillPlusCircle className="mr-2 text-sm" /> Подать объявление
+            <AiFillPlusCircle className="mr-2 text-sm" />Подать объявление
           </Link>
           <div className="user">
             <div className="avatar text-xl flex gap-3">

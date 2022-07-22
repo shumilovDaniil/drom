@@ -1,11 +1,12 @@
 import React from "react";
-import Car from "../components/Car";
 import Pagination from "../components/Pagination";
+import Title from "../ui/Title";
+import CarList from "../components/CarList";
 
 const Ads = () => {
   return (
     <div>
-      <h3>Объявления</h3>
+      <Title>Объявления</Title>
       <ul className="sort flex gap-2 mb-4">
         <li>Сортировка</li>
         <li><a href="src/pages/Ads" className="text-blue-600">отличная цена</a></li>
@@ -15,12 +16,7 @@ const Ads = () => {
         <li><a href="src/pages/Ads" className="text-blue-600">модель</a></li>
       </ul>
 
-      <div className="items w-4/5">
-        <Car />
-        <Car />
-        <Car />
-        <Car />
-      </div>
+      <CarList />
 
       <Pagination />
     </div>

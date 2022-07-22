@@ -1,0 +1,346 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "title": "Mitsubishi Outlander",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "бензин",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 1
+    },
+    {
+      "id": 2,
+      "title": "Mitsubishi Outlander v2",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 1
+    },
+    {
+      "id": 3,
+      "title": "Mitsubishi Outlander v3",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 1
+    },
+    {
+      "id": 4,
+      "title": "Mitsubishi Outlander",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "бензин",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 1
+    },
+    {
+      "id": 5,
+      "title": "Mitsubishi Outlander v2",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 1
+    },
+    {
+      "id": 6,
+      "title": "Mitsubishi Outlander v3",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 1
+    },
+    {
+      "id": 7,
+      "title": "Mitsubishi Outlander 2",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "бензин",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 2
+    },
+    {
+      "id": 8,
+      "title": "Mitsubishi Outlander 2",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 2
+    },
+    {
+      "id": 9,
+      "title": "Mitsubishi Outlander 2",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 2
+    },
+    {
+      "id": 10,
+      "title": "Mitsubishi Outlander 2",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "бензин",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 2
+    },
+    {
+      "id": 11,
+      "title": "Mitsubishi Outlander 2",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 2
+    },
+    {
+      "id": 12,
+      "title": "Mitsubishi Outlander 2",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 2
+    },
+    {
+      "id": 13,
+      "title": "Mitsubishi Outlander 3",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "бензин",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 3
+    },
+    {
+      "id": 14,
+      "title": "Mitsubishi Outlander 3",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 3
+    },
+    {
+      "id": 15,
+      "title": "Mitsubishi Outlander 3",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 3
+    },
+    {
+      "id": 16,
+      "title": "Mitsubishi Outlander 3",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "бензин",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 3
+    },
+    {
+      "id": 17,
+      "title": "Mitsubishi Outlander 3",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 3
+    },
+    {
+      "id": 18,
+      "title": "Mitsubishi Outlander 3",
+      "carYear": 2008,
+      "horsepower": 170,
+      "fuelType": "petrol",
+      "mileage": 190000,
+      "VIN": "XW8**************",
+      "img": "https://s.auto.drom.ru/photo/QY2r94Jk2FO_JZ1n_r8ss6bSffWyq61TBs2L0v6eh8U3335yg_NjRR8PiGksF7COQJ5N3q-0rwnsndQo8PbniTnWIPA.jpg",
+      "price": 1050000,
+      "location": "Юргинское",
+      "publicationDate": "22.07.2022",
+      "owner": {
+        "ownerType": "diller",
+        "tel": "89199222816",
+        "location": "г. Тюмень, ул. Федюнинского, 65"
+      },
+      "page": 3
+    }
+  ]
+}
